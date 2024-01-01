@@ -7,7 +7,7 @@ This repository contains the Jupyter notebooks that were developed during the de
 ### Due to Github's file size upload limitations, it is not possible to upload all the project files here. I have compressed all the files in a tar.gz format, and uploaded it to my google drive. You can download it from there, unzip it un run the app on your local machine.
 Link to Google Drive zipped project files:
 
-https://drive.google.com/file/d/1GBYADstZUy6HaYidOhYKbRbUE6ebKJzD/view?usp=sharing
+https://drive.google.com/file/d/1YSqmU_S5MXW-1IIrIHl-Nkw9pWEsphAD/view?usp=sharing
 
 The compressed file contains:
  - Datasets used to evaluate the model
